@@ -1,0 +1,6 @@
+﻿  game.cpp
+C:\Users\aleks\OneDrive\Рабочий стол\studing\Основы алгоритмизации и программирования(Белодед)\1 семестр\Game\Snake\game\game.cpp(15,16): error C2734: width: объект const необходимо инициализировать, если он не внешний
+C:\Users\aleks\OneDrive\Рабочий стол\studing\Основы алгоритмизации и программирования(Белодед)\1 семестр\Game\Snake\game\game.cpp(16,17): error C2734: height: объект const необходимо инициализировать, если он не внешний
+C:\Users\aleks\OneDrive\Рабочий стол\studing\Основы алгоритмизации и программирования(Белодед)\1 семестр\Game\Snake\game\game.cpp(33,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\aleks\OneDrive\Рабочий стол\studing\Основы алгоритмизации и программирования(Белодед)\1 семестр\Game\Snake\game\game.cpp(33,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\aleks\OneDrive\Рабочий стол\studing\Основы алгоритмизации и программирования(Белодед)\1 семестр\Game\Snake\game\game.cpp(255,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
